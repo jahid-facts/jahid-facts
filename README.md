@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/jahid-facts/jahid-facts/output/snake.svg" alt="Snake animation" />
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -109,6 +111,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jahid-facts/jahid-facts/output/snake.svg" alt="Snake animation" />
+
 
 ###
