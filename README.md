@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">📚 learning ...<br>🎯 Thinking ...<br>👨‍💻 codding<br><br>Problem-solving skills<br>Creative thinking skills<br>Time management skills<br>Communication skills</p>
+<p align="left">📚 learning<br>🎯 Thinking<br>👨‍💻 codding<br><br>Problem-solving skills<br>Creative thinking skills<br>Time management skills<br>Communication skills</p>
 
 ###
 
