@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">I am Md Jahid Hasan. I am a Full Stack Web Developer from Bangladesh with two years of job experience. <br><br>I generally like to take on new challenges and want to try new things. I love to solve complex problems. I usually use HTML, CSS, Bootstrap, JavaScript, and jQuery for frontend design and PHP, and Laravel for the backend. I have worked in Fiverr & and Freelancer international marketplace—I also have basic knowledge of Graphic Design. <br><br>I am very dedicated to my work. I do my work on time at any cost.</p>
+<p align="left">I am Md Jahid Hasan. I am Passionate and dedicated software developer with over 4 years of experience specializing in Laravel and modern JavaScript frameworks. Skilled in building scalable web applications, optimizing performance, and delivering user-friendly solutions. Adept at working both independently and collaboratively within agile teams.
+I am very dedicated to my work. I do my work on time at any cost.
+I generally like to take on new challenges and want to try new things. I love to solve complex problems.</p>
 
 ###
 
